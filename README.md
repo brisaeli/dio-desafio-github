@@ -1,4 +1,4 @@
-# Desafio de projeto git/giyhub
+# Desafio de projeto git/github
 Repositorio criado para desafio de prjeto da Dio
 
 ## Links últeis
